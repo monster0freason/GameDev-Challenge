@@ -10,12 +10,12 @@ Welcome to the **GameDev-Challenge**, a structured journey to learning game deve
 
 ## 📂 Game Projects
 
-- [Console-Based Guessing Game](./GameDev-Challenge/Console-Based%20Guessing%20Game) 
-- [Pong](./GameDev-Challenge/Pong)
-- [Brick Breaker](./GameDev-Challenge/Brick%20Breaker)
-- [Tic-Tac-Toe](./GameDev-Challenge/Tic-Tac-Toe)
-- [Flappy Bird Clone](./GameDev-Challenge/Flappy%20Bird%20Clone)
-- [Endless Runner](./GameDev-Challenge/Endless%20Runner)
+- [Console-Based Guessing Game](./GameDev-Challenge/1.%20Console-Based%20Guessing%20Game) 
+- [Pong](./GameDev-Challenge/2.%20Pong)
+- [Brick Breaker](./GameDev-Challenge/3.%20Brick%20Breaker)
+- [Tic-Tac-Toe](./GameDev-Challenge/4.%20Tic-Tac-Toe)
+- [Flappy Bird Clone](./GameDev-Challenge/5.%20Flappy%20Bird%20Clone)
+- [Endless Runner](./GameDev-Challenge/6.%20Endless%20Runner)
 - [Snake Game](./GameDev-Challenge/Snake%20Game)
 - [2D Top-Down Shooter](./GameDev-Challenge/2D%20Top-Down%20Shooter)
 - [2D Platformer](./GameDev-Challenge/2D%20Platformer)
